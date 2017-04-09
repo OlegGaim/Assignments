@@ -6,17 +6,13 @@
 body {
   font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 16px;
-  font-weight: bold;
+  font-weight: 400;
 }
   
 h1 {
   text-transform: capitalize;
   font-size: 175%;
   text-align: center;
-}
-
-.row {
-	width: 100%;
 }
 
 h2 {
@@ -28,6 +24,10 @@ h2 {
 	margin-right: -2px;
 	margin-top: -2px;
 	text-align: center;
+}
+
+.row {
+  width: 100%;
 }
 
 .section {
