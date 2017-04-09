@@ -1,4 +1,4 @@
-/********** Base styles **********/
+/*---------------- Base styles ----------------*/
 * {
   box-sizing: border-box;
 }
@@ -34,7 +34,7 @@ section{
   vertical-align: middle;
 }
 
-/*------------ IDs ----------------*/
+/*---------------- IDs ----------------*/
 #p1 {
   color: black;
   background-color: #d59898;
@@ -51,7 +51,7 @@ section{
   float: right;
 }
 
-/*------------ Classes ----------------*/
+/*---------------- Classes ----------------*/
 .row {
   width: 100%;
 }
